@@ -12,7 +12,7 @@ MarkupSafe==1.0
 passlib==1.7.1
 pycodestyle==2.3.1
 pycparser==2.18
-PyJWT==1.6.1
+PyJWT==2.4.0
 pyzmq==17.0.0
 requests==2.18.4
 six==1.11.0
